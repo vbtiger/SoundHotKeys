@@ -52,7 +52,8 @@
     <StartupObject />
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resouces\SoundHotKeys_icon_red.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -115,7 +116,12 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resouces\SoundHotKeys_icon_red.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_blue.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_blue_7.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_green.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_green_7.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_red.ico" />
+    <Content Include="Resources\SoundHotKeys_icon_red_7.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

@@ -249,3 +249,4 @@ ModelManifest.xml
 *.bat
 *.txt
 ./*.reg
+/_private

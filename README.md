@@ -2,7 +2,7 @@
 	<b>My first ever project on GitHub.</b>
 </p>
 <p>
-	I made this peace of application many years ago and used it now to start my GitHub account.
+	I made this piece of application many years ago and used it now to start my GitHub account.
 	<i>(Yes, I know how ugly the code is.)</i>
 </p>
 <hr />
